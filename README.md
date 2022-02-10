@@ -7,7 +7,7 @@ Denove assembly and Annotation
 conda install -c bioconda trinity 
 
 
-- ### create an environment to run trinity there
+- ### Create an environment to run trinity there
 
 conda create -n trinity
 
